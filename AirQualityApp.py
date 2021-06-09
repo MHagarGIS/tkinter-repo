@@ -1,5 +1,5 @@
 # Created by: MHagarGIS
-# For: GEOG470
+# For: GEOG499
 # 3/13/2021
 # This code was developed by following a tutorial and thus nearly all the code was developed
 # by John Elder from Codemy.com on the YouTube channel Codemy.com in the playlist "Python GUI's With TKinter.
